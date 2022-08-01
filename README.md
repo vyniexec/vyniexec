@@ -8,7 +8,7 @@
 - 011🇧🇷 
 - I love a problem❌ 
 - SENAI - Técn. Eletroeletrônica📚 
-- Who protects ne doesn’t sleep🎭
+- Who protects me doesn’t sleep🎭
 
 <div align="center">
   <a href="https://github.com/vyniexec">
