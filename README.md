@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-s-2b462421a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
  
-- 011🇧🇷 
+- 011
 - I love a problem❌ 
 - SENAI - Técn. Eletroeletrônica📚 
 - Who protects me doesn’t sleep🎭
