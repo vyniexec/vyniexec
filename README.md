@@ -10,8 +10,6 @@
 - SENAI - Técn. Eletroeletrônica📚 
 - Who protects me doesn’t sleep🎭
 
-  <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="vinícius-s-2b462421a" data-         version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/vin%C3%ADcius-s-2b462421a?trk=profile-badge">Vinícius S.</a></div>
-
 <div align="center">
   <a href="https://github.com/vyniexec">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vyniexec&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
