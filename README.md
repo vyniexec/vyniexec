@@ -6,7 +6,7 @@
  </div>
  
 - 011
-- I love a problem❌ 
+- I love solving problems, but I don't in TCC ❌ 
 - SENAI - Técn. Eletroeletrônica📚 
 
 <div align="center">
