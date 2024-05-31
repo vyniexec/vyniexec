@@ -7,7 +7,7 @@
  
 - 011
 - I love solving problems, but I don't in TCC ❌
-- AMPLI - Software Engineer📚  
+- Software Engineer📚  
 - SENAI - Técn. Eletroeletrônica📚 
 
 <div align="center">
