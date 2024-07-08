@@ -27,11 +27,3 @@
   <img align="center" alt="Vyni-C-Embarcada" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
 </div>
 
-  
-  ##
- 
-<div> 
- 
-  ![Snake animation](https://github.com/vyniexec/vyniexec/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
