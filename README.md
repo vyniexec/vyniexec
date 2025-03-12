@@ -7,7 +7,7 @@
  
 - 011
 - I love solving problems, but I don't in TCC ❌
-- Software Engineer📚  
+- Automation Engineer📚  
 - SENAI - Técn. Eletroeletrônica📚 
 
 <div align="center">
